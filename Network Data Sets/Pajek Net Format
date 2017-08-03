@@ -1,0 +1,24 @@
+Uses .NET extension
+
+*Vertices 82678		*arcs
+					(source)(target)(weight [if any])
+1	"entity"		4244	107
+2	"thing"			4244	238
+3	"anything"		4244	4292
+4	"something"		4247	107
+5	"nothing"		4248	1
+6	"whole"			4248	54
+
+
+
+*Vertices 9
+*Edges
+1	2
+1	9
+2	9
+2	3
+2	8
+3	8
+4	5
+5	7
+6	4
