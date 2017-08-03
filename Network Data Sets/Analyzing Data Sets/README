@@ -1,0 +1,6 @@
+Analyzing various open source data set repositories in the following formats:
+(1) Edge List
+(2) GEXF
+(3) GML
+(4) Pajek
+And plotting relevant graphs for better visualization.
