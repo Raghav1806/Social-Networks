@@ -1,0 +1,12 @@
+This week is aimed at handling the real world datasets in the following formats:
+(1) CSV (comma separated values)
+(2) GML (graph modelling language)
+(3) Pajek Net
+(4) Graphml
+(5) gexf
+
+
+Density = (Number of edges present)/(Total possible edges)
+
+Clustering coefficient = (Actual number of friendships)/(Total number of friendships)
+It indicates how closely knit friends of a node are.
